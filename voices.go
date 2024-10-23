@@ -22,6 +22,7 @@ const (
 	VoiceStandard VoiceType = iota // Standard
 	VoiceNeural                    // Neural
 	VoiceNeutral                   // Neutral
+	VoiceNeuralHD                  // NeuralHD
 )
 
 /*
